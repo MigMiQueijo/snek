@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background: rgb(228,255,208);
+  background: linear-gradient(90deg, rgba(228,255,208,1) 0%, rgba(143,255,104,1) 50%, rgba(57,255,0,1) 100%);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+canvas {
+  background-color: greenyellow;
+}
+
+
